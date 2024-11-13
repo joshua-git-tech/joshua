@@ -151,7 +151,7 @@ export const ProjImg = [
         name: "My Portfolio",
         category: "React",
         imgsrc: "projectImg/portfolio.png",
-        href: ""
+        href: "https://joshua-beta.vercel.app/"
     },
 ]
 export const Experience = [
